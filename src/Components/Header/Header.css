@@ -1,0 +1,11 @@
+.marginalized {
+  margin-bottom: 20vh;
+}
+
+#Header {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100vw;
+  margin-top: -15%;
+  padding: 30px;
+}
